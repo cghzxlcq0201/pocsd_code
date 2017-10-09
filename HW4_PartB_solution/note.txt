@@ -1,0 +1,3 @@
+I've not completely implemented the solution especially in rename and there might be a few corner cases in read/write, but it does work fairly well for the common cases. 
+
+Students who have trouble starting the project may use this as a starting point. 
